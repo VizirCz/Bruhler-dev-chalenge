@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\controllers\\foodtruckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\controllers\\foodtruckscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\datasets\\foodtruckdatasetsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\datasets\\foodtruckdatasetsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\datasets\\ifoodtruckdatasetsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\datasets\\ifoodtruckdatasetsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\requests\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\requests\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\utils\\locationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\utils\\locationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\extentions\\foodtruckdatasetitemextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\extentions\\foodtruckdatasetitemextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\requests\\foodtruckresultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\requests\\foodtruckresultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\datasets\\foodtruckdatasetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\datasets\\foodtruckdatasetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\controllers\\foodtrucksinternalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\controllers\\foodtrucksinternalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\sourcedata\\mobile_food_facility_permit.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\sourcedata\\mobile_food_facility_permit.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|c:\\users\\vieza\\source\\repos\\buhler-dev-chalenge\\foodtruckslocator\\foodtruckslocator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B0C4088-1BF8-442D-AB9C-81DBCC3C3018}|FoodTrucksLocator\\FoodTrucksLocator.csproj|solutionrelative:foodtruckslocator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Dockerfile",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Dockerfile",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Dockerfile",
+              "RelativeToolTip": "FoodTrucksLocator\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-08T19:55:01.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFoodTruckDatasetSource.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Datasets\\IFoodTruckDatasetSource.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Datasets\\IFoodTruckDatasetSource.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Datasets\\IFoodTruckDatasetSource.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Datasets\\IFoodTruckDatasetSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:12:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodTruckDatasetItemExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Extentions\\FoodTruckDatasetItemExtentions.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Extentions\\FoodTruckDatasetItemExtentions.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Extentions\\FoodTruckDatasetItemExtentions.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Extentions\\FoodTruckDatasetItemExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:07:14.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodTrucksController.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Controllers\\FoodTrucksController.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Controllers\\FoodTrucksController.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Controllers\\FoodTrucksController.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Controllers\\FoodTrucksController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:25:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Requests\\SearchResult.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Requests\\SearchResult.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Requests\\SearchResult.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Requests\\SearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:20:49.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodTruckDatasetSource.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Datasets\\FoodTruckDatasetSource.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Datasets\\FoodTruckDatasetSource.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Datasets\\FoodTruckDatasetSource.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Datasets\\FoodTruckDatasetSource.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAApwCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:23:50.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Program.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Program.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Program.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:17:59.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Utils\\LocationHelper.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Utils\\LocationHelper.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Utils\\LocationHelper.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Utils\\LocationHelper.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAIAwwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:17:57.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodTruckResultItem.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Requests\\FoodTruckResultItem.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Requests\\FoodTruckResultItem.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Requests\\FoodTruckResultItem.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Requests\\FoodTruckResultItem.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:29:56.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodTruckDatasetItem.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Datasets\\FoodTruckDatasetItem.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Datasets\\FoodTruckDatasetItem.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Datasets\\FoodTruckDatasetItem.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Datasets\\FoodTruckDatasetItem.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:46:05.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FoodTrucksInternalController.cs",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Controllers\\FoodTrucksInternalController.cs",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\Controllers\\FoodTrucksInternalController.cs",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\Controllers\\FoodTrucksInternalController.cs",
+              "RelativeToolTip": "FoodTrucksLocator\\Controllers\\FoodTrucksInternalController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:49:33.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mobile_Food_Facility_Permit.csv",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\SourceData\\Mobile_Food_Facility_Permit.csv",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\SourceData\\Mobile_Food_Facility_Permit.csv",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\SourceData\\Mobile_Food_Facility_Permit.csv",
+              "RelativeToolTip": "FoodTrucksLocator\\SourceData\\Mobile_Food_Facility_Permit.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-08T17:30:01.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodTrucksLocator\\appsettings.json",
+              "ToolTip": "C:\\Users\\vieza\\source\\repos\\Buhler-dev-chalenge\\FoodTrucksLocator\\FoodTrucksLocator\\appsettings.json",
+              "RelativeToolTip": "FoodTrucksLocator\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T15:34:54.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
